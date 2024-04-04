@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=header"/>
-
+<div align="center"> 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=5800&pause=1000&color=37435D‬&stroke=008000&lines=Ol%C3%A1!+👋;+Me+chamo+Bruno+e+seja+bem-vindo+ao+meu+perfil!+🌟;" />
 </h1>
@@ -12,9 +12,9 @@
 ## 🧑‍💻 Sobre Mim
 Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento web e tudo relacionado à computação. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas áreas, desde front-end até DevOps.
 
-- 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
-- 💼 Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e desafiadores.
-- 🎓 Possuo formação em Análise e Desenvolvimento de Sistemas na FIAP.
+ 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
+ 💼 Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e desafiadores.
+ 🎓 Possuo formação em Análise e Desenvolvimento de Sistemas na FIAP.
 
 <div>
 
@@ -75,7 +75,21 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e estou 
 ## 📫 Contato
 Se você quiser entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou apenas para trocar ideias, sinta-se à vontade para me contatar:
 
-- Email: [bruno.saantunes1@gmail.com](bruno.saantunes1@gmail.com)
-- LinkedIn: [Bruno Antunes](www.linkedin.com/in/bruno-saantunes)
+<div align="center"> 
+  
+<a href="https://instagram.com/brunoh_antunes" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
 
+<a href="mailto:cmp.1a.bruno.saantunes1@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+<a  href="https://www.linkedin.com/in/bruno-saantunes/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+
+</div>
+</div>
 
