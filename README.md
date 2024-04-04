@@ -1,5 +1,8 @@
-<!-- Seção de cabeçalho -->
-<h1 align="center">Olá, sou o Bruno e seja bem-vindo ao Meu Perfil! 👋</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=5100&lines=Ol%C3%A1!+👋;+Me+chamo+Bruno+e+seja+bem-vindo+ao+Meu+Perfil!;" />
+</h1>
+
 
 <!-- Sobre Mim -->
 ## 🧑‍💻 Sobre Mim
@@ -52,3 +55,4 @@ Se você quiser entrar em contato comigo para discutir oportunidades de colabora
 - LinkedIn: [Bruno Antunes](www.linkedin.com/in/bruno-saantunes)
 
 ![Snake animation](https://github.com/rafaballerini/bruno1098/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=bruno1098&repo=yourbruno1098&theme=react) ](https://github.com/bruno1098/bruno1098)
