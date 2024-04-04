@@ -21,6 +21,7 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 <br>
 <br> 
 
+# 📊 Estatísticas do GitHub
 
 <br>
 <br>
@@ -28,6 +29,8 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno1098&theme=nord&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1098&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)
 
 </div>
 
@@ -37,6 +40,7 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/bruno1098?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
 
 </div>
 
