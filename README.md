@@ -11,10 +11,13 @@
 <!-- Sobre Mim -->
 ## 🧑‍💻 Sobre Mim
 Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento web e tudo relacionado à computação. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas áreas, desde front-end até DevOps.
+<br>
+<br>
+<br>
+ <p style="display: block;">🌱 Estou constantemente aprendendo e explorando novas tecnologias.</p>
+  <p style="display: block;">💼 Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e desafiadores.</p>
+  <p style="display: block;">🎓 Possuo formação em Análise e Desenvolvimento de Sistemas na FIAP.</p>
 
- 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
- 💼 Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e desafiadores.
- 🎓 Possuo formação em Análise e Desenvolvimento de Sistemas na FIAP.
 
 <div>
 
