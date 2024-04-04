@@ -1,7 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=5100&lines=Ol%C3%A1!+👋;+Me+chamo+Bruno+e+seja+bem-vindo+ao+Meu+Perfil!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=50&duration=5800&pause=1000&color=37435D‬&stroke=008000&lines=Ol%C3%A1!+👋;+Me+chamo+Bruno+e+seja+bem-vindo+ao+meu+perfil!+🌟;" />
 </h1>
+
+
+
 
 
 <!-- Sobre Mim -->
@@ -14,13 +18,29 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 
 <div>
 
-<!-- Estatísticas do GitHub -->
-## 📊 Estatísticas do GitHub || Linguagens Mais Usadas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bruno1098&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)
+<br>
+<br> 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1098&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)
+
+<br>
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno1098&theme=nord&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
+
+
+
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/bruno1098?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
+</div>
+
+<br> 
 
 
 <!-- Principais Tecnologias e Ferramentas -->
@@ -54,5 +74,4 @@ Se você quiser entrar em contato comigo para discutir oportunidades de colabora
 - Email: [bruno.saantunes1@gmail.com](bruno.saantunes1@gmail.com)
 - LinkedIn: [Bruno Antunes](www.linkedin.com/in/bruno-saantunes)
 
-![Snake animation](https://github.com/rafaballerini/bruno1098/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=bruno1098&repo=yourbruno1098&theme=react) ](https://github.com/bruno1098/bruno1098)
+
