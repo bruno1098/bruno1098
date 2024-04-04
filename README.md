@@ -1,16 +1,54 @@
-### Hi there 👋
+<!-- Seção de cabeçalho -->
+<h1 align="center">Olá, sou o Bruno e seja bem-vindo ao Meu Perfil! 👋</h1>
 
-<!--
-**bruno1098/bruno1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sobre Mim -->
+## 🧑‍💻 Sobre Mim
+Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento web e tudo relacionado à computação. Atualmente, estou focado em aprender e aprimorar minhas habilidades em diversas áreas, desde front-end até DevOps.
 
-Here are some ideas to get you started:
+- 🌱 Estou constantemente aprendendo e explorando novas tecnologias.
+- 💼 Atualmente, estou buscando oportunidades para colaborar em projetos interessantes e desafiadores.
+- 🎓 Possuo formação em Análise e Desenvolvimento de Sistemas na FIAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+<!-- Estatísticas do GitHub -->
+## 📊 Estatísticas do GitHub || Linguagens Mais Usadas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bruno1098&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1098&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)
+
+</div>
+
+
+<!-- Principais Tecnologias e Ferramentas -->
+## 🚀 Principais Tecnologias e Ferramentas
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho e estou interessado:
+
+<div style="display: inline_block"><br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50"/> 
+ <img src="https://cdn-icons-png.flaticon.com/128/5815/5815886.png" width="50"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="50"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-plain.svg" width="50"/> 
+</div>
+
+
+
+
+<!-- Contato -->
+## 📫 Contato
+Se você quiser entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou apenas para trocar ideias, sinta-se à vontade para me contatar:
+
+- Email: [bruno.saantunes1@gmail.com](bruno.saantunes1@gmail.com)
+- LinkedIn: [Bruno Antunes](www.linkedin.com/in/bruno-saantunes)
+
+![Snake animation](https://github.com/rafaballerini/bruno1098/blob/output/github-contribution-grid-snake.svg)
