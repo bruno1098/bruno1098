@@ -31,7 +31,7 @@ Sou um entusiasta da tecnologia apaixonado por programação, desenvolvimento we
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno1098&theme=nord&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bruno1098&theme=highcontrast&hide_border=true&locale=pt_BR&short_numbers=true&border=0012EB&background=123%2C000000%2C4C51EB&dates=9805FF&currStreakLabel=B3B9B6)](https://git.io/streak-stats)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1098&bg_color=30,0F2027,203A43,2C5364&title_color=fff&text_color=fff)
 
